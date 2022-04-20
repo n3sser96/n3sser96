@@ -24,7 +24,7 @@
 </h3>
 
 <p>
- I have completed my BS in Computer Science from Sultan Qaboos University. Feel free to check <a href="subhi.dev"> My Resume </a>
+ I have completed my BS in Computer Science from Sultan Qaboos University. Feel free to check <a href="https://subhi.dev"> My Resume </a>
 </p>
 
 ---
