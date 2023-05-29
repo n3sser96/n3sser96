@@ -27,14 +27,6 @@
  I have completed my BS in Computer Science from Sultan Qaboos University. Feel free to check <a href="https://subhi.dev"> My Resume </a>
 </p>
 
----
-
-## 🔥 Streak Stats
-
-<p>
-    <img alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=n3sser96&theme=monokai-metallian&hide_border=true"/>
-</p>
-
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming and Markup Languages
